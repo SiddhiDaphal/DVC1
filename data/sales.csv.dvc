@@ -1,0 +1,5 @@
+outs:
+- md5: 589acfaa9d9f6ec5db5956c28490d4dc
+  size: 179064
+  hash: md5
+  path: sales.csv
